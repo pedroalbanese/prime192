@@ -1,4 +1,4 @@
-# Prime192vX
+# Prime192vN
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/pedroalbanese/prime192/blob/master/LICENSE.md) 
 [![GoDoc](https://godoc.org/github.com/pedroalbanese/prime192?status.png)](http://godoc.org/github.com/pedroalbanese/prime192)
 [![GitHub downloads](https://img.shields.io/github/downloads/pedroalbanese/prime192/total.svg?logo=github&logoColor=white)](https://github.com/pedroalbanese/prime192/releases)
